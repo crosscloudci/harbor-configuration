@@ -1,1 +1,1 @@
-# testproj-configuration
+# harbor-configuration
