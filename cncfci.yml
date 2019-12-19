@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/harbor/icon/color/harbor-icon-color.svg?sanitize=true"
   display_name: Harbor
-  sub_title: Cloud native registry project that stores, signs, and scans content
+  sub_title: Registry
   project_url: "https://github.com/goharbor/harbor"
   stable_ref: "v1.8.5"
   head_ref: "master"
