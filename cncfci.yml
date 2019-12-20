@@ -8,7 +8,7 @@
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/goharbor/harbor"  # can be anything for citest
+      ci_project_url: "https://travis-ci.org/goharbor/harbor" 
       ci_project_name: "goharbor/harbor"
       arch:
         - amd64
